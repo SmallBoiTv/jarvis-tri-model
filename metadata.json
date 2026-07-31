@@ -4,12 +4,12 @@
                           "gemma4:31b",
                           "qwen3.6:27b"
                       ],
-    "updatedAt":  1785525760833,
+    "updatedAt":  1785526325651,
     "description":  "Tri-model composite with GLM, Gemma, and Qwen backing",
     "baseModel":  "glm-5.2",
     "modelId":  "jarvis-tri-model",
     "samplesCount":  0,
     "name":  "Jarvis Tri-Model",
     "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785525760833
+    "lastSync":  1785526325651
 }
