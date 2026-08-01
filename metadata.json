@@ -1,15 +1,15 @@
-﻿{
-    "backingModels":  [
-                          "glm-5.2",
-                          "gemma4:31b",
-                          "qwen3.6:27b"
-                      ],
-    "updatedAt":  1785526325651,
-    "description":  "Tri-model composite with GLM, Gemma, and Qwen backing",
-    "baseModel":  "glm-5.2",
-    "modelId":  "jarvis-tri-model",
-    "samplesCount":  0,
-    "name":  "Jarvis Tri-Model",
-    "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785526325651
+{
+  "modelId": "jarvis-tri-model",
+  "name": "Jarvis Tri-Model",
+  "description": "Tri-model composite with GLM, Gemma, and Qwen backing",
+  "baseModel": "glm-5.2",
+  "backingModels": [
+    "glm-5.2",
+    "gemma4:31b",
+    "qwen3.6:27b"
+  ],
+  "currentVersion": "jarvis-v1-1785600566650",
+  "lastSync": 1785600578320,
+  "samplesCount": 62,
+  "updatedAt": 1785600578320
 }
