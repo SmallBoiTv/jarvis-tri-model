@@ -8,8 +8,8 @@
     "gemma4:31b",
     "qwen3.6:27b"
   ],
-  "currentVersion": "jarvis-v18-1785688812995",
-  "lastSync": 1785688823226,
+  "currentVersion": "jarvis-v19-1785694213024",
+  "lastSync": 1785694223166,
   "samplesCount": 68,
-  "updatedAt": 1785688823226
+  "updatedAt": 1785694223166
 }
